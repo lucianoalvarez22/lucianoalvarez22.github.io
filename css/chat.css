@@ -1,0 +1,29 @@
+.main-aside {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    border: #0e4f1f solid 2px;
+    height: 50%;
+    width: 15em;
+
+}
+
+.main-aside__title{
+    text-align: center;
+    padding: 10px 0;
+    background-color: #0e4f1f;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+}
+
+.main-aside__mensajes, .main-aside__mensaje {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.main-aside__submit {
+    position: absolute;
+    bottom: 1%;
+    right: 2%;
+}
